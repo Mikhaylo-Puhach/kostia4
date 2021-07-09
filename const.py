@@ -1,5 +1,5 @@
 __version__ = '1.9.0'
-__author__ = 'lordralinc'
+__author__ = '🌟[nexton21|Михайло Пугач]🌟'
 
 DEFAULT_DATABASE = {
   "tokens": [],
